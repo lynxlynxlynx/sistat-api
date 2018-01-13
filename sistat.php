@@ -472,6 +472,7 @@ class sistat
     $responseArray["note"] = $note;
 
     $this->response = $responseArray;
+    unlink($this->tmpPxFilePath);
   }
 
   /**
