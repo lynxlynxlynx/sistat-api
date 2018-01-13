@@ -242,6 +242,11 @@ class sistat
           $this->fieldOptions[$key] = range(1, $this->fieldOptionsCount[$key]);
         } elseif (strcasecmp($rf, "last") === 0) {
           $this->fieldOptions[$key] = array($this->fieldOptionsCount[$key]);
+        } elseif (strncasecmp($rf, "last", 4) === 0) {
+          $count = $this->fieldOptionsCount[$key];
+          $requestedCount = max(1, substr($rf, 4));
+          $requestedCount = min($requestedCount, $count - 1);
+          $this->fieldOptions[$key] = range($count - $requestedCount + 1, $count);
         } elseif (strcasecmp($rf, "first") === 0) {
           $this->fieldOptions[$key] = array(1);
         } else {
