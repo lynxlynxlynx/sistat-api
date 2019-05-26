@@ -1,0 +1,37 @@
+Trdna, tekoča in plinasta goriva
+Mleko in mlečni izdelki
+Odkup lesa
+Zakol živine
+Pomorski transport
+Cestni potniški prevoz
+Registrirana cestna vozila
+Žičniški promet
+Zračni transport
+Nastanitvena statistika, mesečni podatki - objekti z najmanj 10 ležišči
+Indeks prihodka v trgovini na debelo
+Indeks prihodka v trgovini na drobno
+Indeks prihodka v storitvenih dejavnostih
+Indeks cen industrijskih proizvodov pri proizvajalcih na tujem trgu
+Indeks cen industrijskih proizvodov pri proizvajalcih na domačem trgu
+Indeks uvoznih cen
+Indeks cen inputov v kmetijstvu
+Skupni indeksi cen industrijskih proizvodov pri proizvajalcih
+Indeks cen kmetijskih pridelkov pri pridelovalcih
+Indeks cen življenskih potrebščin
+Povprečne drobnoprodajne cene izdelkov in storitev
+Poslovne tendence v gradbeništvu
+Poslovne tendence v trgovini na drobno
+Poslovne tendence v predelovalnih dejavnostih
+Poslovne tendence in mnenje potrošnikov
+Poslovne tendence v storitvenih dejavnostih
+Statistika gradbenih dovoljenj
+Deleži vrednosti opravljenih gradbenih ...
+Indeks vrednosti opravljenih gradbenih ...
+Indeks industrijske proizvodnje, zalog in produktivnosti dela v industriji
+Prihodek od prodaje v industriji
+Povprečne mesečne plače
+Mnenje potrošnikov
++ 2 izgubljeni statistiki
+
+sistat ima zdaj moderen podatkovni portal in ta projekt ni več potreben.
+orodja za json-stat: https://json-stat.org/tools/
